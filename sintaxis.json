@@ -1,0 +1,64 @@
+[
+    {
+        "nombre": "victor",
+        "Apellido": "lima",
+        "edad":22,
+        "equipos":["Sporiting lud", 
+                    "Manchester united", 
+                    "Real Madrid", 
+                    "Juventus"]
+
+    },
+
+    {
+        "nombre": "Gilmer",
+        "Apellido": "Godoy",
+        "edad":36,
+        "equipos":["Newells old Boys", 
+                    "Barcelona", 
+                    "Juventus"]
+    
+    },
+
+    {
+        "nombre": "Marcelo",
+        "Apellido": "Lima",
+        "edad":40,
+        "equipos":["Newells old Boys", 
+                    "Barcelona", 
+                    "Juventus"]
+    
+    }
+
+
+
+]
+
+
+
+String
+
+{ "ciudad": "Antioquía"}
+
+Array
+
+{
+    "ciudades": ["Monterrey", "Guadalajara", "Guanajuato"]
+}
+
+Objeto
+
+ "ciudad": {
+       "ciudad": "Guadalajara",
+       "sigla": "GDL"
+  }
+}
+Lista de objetos
+
+{   "ciudades":[
+    {"ciudad": "Guadalajara", "sigla": "GDL"},
+    {"ciudad": "Monterrey", "sigla": "MTY"},
+    {"ciudad": "Guanajuato", "sigla": "GTO"}
+    ]
+}
+
